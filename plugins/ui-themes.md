@@ -19,7 +19,7 @@
 
 ## 界面增强 / 面板
 
-- [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 侧边栏完整工作台：文件渲染编辑/终端/Git/子代理，支持三方注册 Tab ⭐4479 · `dsh plugin add dsh-better-sidebar`
+- [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 侧边栏完整工作台：文件渲染编辑/终端/Git/子代理，支持三方注册 Tab ⭐4484 · `dsh plugin add dsh-better-sidebar`
 - [dsh-side-panel](https://github.com/ccq1/dsh-side-panel) — 侧边栏集成文件浏览器、终端和 Git 审查 ⭐15 · `dsh plugin add @dsh-external/dsh-side-panel`
 - [dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat) — 「聚焦会话」精简视图，只关注最终产出结果 ⭐21 · `dsh plugin add @dingyi222666/dsh-focus-chat`
 - [ui-status-label](https://github.com/alingalingling/ui-status-label) — 把鲸鱼娘思考时的 "deep diving" 状态文案自定义 ⭐51 · `dsh plugin add dsh-ui-status-label`
@@ -32,7 +32,7 @@
 - [dsh-diff-viewer](https://github.com/lehhair/dsh-diff-viewer) — PiUI 风格 diff 查看器，替换 write/edit 的默认 DiffBlock ⭐26 · `dsh plugin add @dsh-external/dsh-diff-viewer`
 - [dsh-drag-and-drop](https://github.com/bill9109/dsh-drag-and-drop) — 跨平台文件拖拽与原始路径插入，无需复制文件 ⭐21 · `dsh plugin add @bill9109/dsh-drag-and-drop`
 - [ex-setting](https://github.com/omdsh-dev/ex-setting) — DSH 的设置扩展 ⭐1 · `dsh plugin add @deepseek-ai/dsh-ex-setting`
-- [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — 选中文字→批注→回车随消息发送，回复按批注逐条对照 ⭐152 · `dsh plugin add @omdsh-dev/dsh-annotation`
+- [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — 选中文字→批注→回车随消息发送，回复按批注逐条对照 ⭐153 · `dsh plugin add @omdsh-dev/dsh-annotation`
 - [dsh-prompt-studio](https://github.com/Moeblack/dsh-prompt-studio) — 带实时预览的用户/内置 system prompt 分节编辑器 ⭐3 · `dsh plugin add dsh-prompt-studio`
 - [dsh-prompt-persona](https://github.com/Xilin3/dsh-prompt-persona) — 从设置页编辑系统提示词（deployment persona），带实时预览 ⭐16 · `dsh plugin add @xilin3/dsh-prompt-persona`
 - [dsh-local-filetree](https://github.com/Mongfayi/dsh-local-filetree) — 右侧详情列显示当前会话工作区文件树（懒加载、只读） · `dsh plugin add dsh-local-filetree`
